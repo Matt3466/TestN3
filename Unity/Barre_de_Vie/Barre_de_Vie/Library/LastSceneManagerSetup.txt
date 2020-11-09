@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/ARC-04/Desktop/Projet_fin_annee/Unity/Projet_t_rpg/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
